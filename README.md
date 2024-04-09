@@ -6,4 +6,4 @@ Python 3.
 Turtle Module
 
 # Usage_Example:
-https://github.com/ali-kanbar/Turtles-Race-Bet/assets/155682302/c56d2013-7c14-4ac1-8522-54ca5ee13b15
+![20240409184523 (1)](https://github.com/ali-kanbar/Turtles-Race-Bet/assets/155682302/47fc3416-986b-4a04-bee0-2ff7ff39e1a0)
