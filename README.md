@@ -1,10 +1,9 @@
-![image](https://github.com/ali-kanbar/Turtles-Race-Bet/assets/155682302/af170220-47c4-4781-b1a8-c1887d14cc54)## Turtles-Race-Bet
+# Turtles-Race-Bet
 A game where the player bets on a turtle to win the race 
 
-##Dependencies:
+# Dependencies:
 Python 3.
 Turtle Module
 
-##Usage_Example:
-https://github.com/ali-kanbar/Turtles-Race-Bet/assets/155682302/2cf4823a-d736-44ad-96b1-1a831313ddb2
-
+# Usage_Example:
+https://github.com/ali-kanbar/Turtles-Race-Bet/assets/155682302/c56d2013-7c14-4ac1-8522-54ca5ee13b15
