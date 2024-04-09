@@ -2,7 +2,8 @@
 A game where the player bets on a turtle to win the race 
 
 # Dependencies:
-Python 3.
+Python 3
+Tkinter Module
 Turtle Module
 
 # Usage Example:
